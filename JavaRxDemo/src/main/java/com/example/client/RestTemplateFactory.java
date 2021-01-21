@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 @Configuration
-public class RestTemplateFactory {
+public class RestTemplateFactory { 
 	/**
 	 * Creates a singleton RestTemplate bean with all the necessary configuration.
 	 * 
