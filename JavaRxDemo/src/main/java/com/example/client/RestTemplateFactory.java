@@ -6,7 +6,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Configuration
 public class RestTemplateFactory { 
-	/**
+	/** 
 	 * Creates a singleton RestTemplate bean with all the necessary configuration.
 	 * 
 	 * @return a singleton RestTemplate bean
